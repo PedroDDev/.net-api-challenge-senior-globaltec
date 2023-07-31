@@ -12,7 +12,7 @@ Selection process challenge for the Senior|Globaltec company .Net developer posi
 
 ### Dados para a autenticação
 
-Para poder gerar um Token de acesso, utilize as seguintes crendenciais:
+Para poder gerar um Token de acesso, utilize as seguintes credenciais:
 
 + username: usuario;
 + password: teste.
